@@ -1,6 +1,6 @@
 {
     "name": "iso-random-stream",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Random bytes stream for node and browser",
     "repository": "hugomrdias/iso-random-stream",
     "author": "Hugo Dias <hugomrdias@gmail.com> (hugodias.me)",
