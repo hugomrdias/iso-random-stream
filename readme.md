@@ -18,7 +18,7 @@ randomStream('100').pipe(process.stdout);
 
 ## API
 
-### randomBytesStreamIso(size)
+### randomStream(size)
 
 Returns a [`stream.Readable`](https://nodejs.org/api/stream.html#stream_readable_streams). By default, it produces infinite data.
 

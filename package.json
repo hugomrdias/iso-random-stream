@@ -18,8 +18,8 @@
         "lint": "eslint --cache *.js src/*.js",
         "validate": "run-p lint test",
         "precommit": "yarn validate",
-        "version": "yarn changelog && git add CHANGELOG.md",
-        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0",
+        "version": "yarn changelog && git add changelog.md",
+        "changelog": "conventional-changelog -p angular -i changelog.md -s -r 0",
         "cov": "yarn test && nyc report --reporter=html && hs coverage -s -o -c-1",
         "cov:report": "nyc report --reporter=text-lcov > coverage.lcov && codecov"
     },
