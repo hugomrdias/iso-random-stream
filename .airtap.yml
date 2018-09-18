@@ -1,0 +1,13 @@
+browsers:
+    - name: firefox
+      version: latest
+    - name: chrome
+      version: latest
+    - name: safari
+      version: latest
+    - name: iphone
+      version: latest
+    - name: android
+      version: latest
+    - name: MicrosoftEdge
+      version: latest
