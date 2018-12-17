@@ -42,5 +42,5 @@ function randomBytes(size) {
         }
     }
 
-    return bytes;
+    return Buffer.from(bytes);
 }
