@@ -35,7 +35,7 @@
         "browser"
     ],
     "dependencies": {
-        "buffer": "^5.4.3",
+        "buffer": "^6.0.2",
         "readable-stream": "^3.4.0"
     },
     "devDependencies": {
