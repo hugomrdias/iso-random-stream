@@ -46,7 +46,7 @@
         "eslint-config-halo": "^2.3.3",
         "faucet": "^0.0.1",
         "http-serve": "^1.0.1",
-        "husky": "^4.2.5",
+        "husky": "^5.0.9",
         "np": "^6.2.2",
         "npm-run-all": "^4.1.1",
         "nyc": "^15.0.1",
