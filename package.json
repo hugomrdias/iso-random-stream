@@ -39,7 +39,7 @@
         "readable-stream": "^3.4.0"
     },
     "devDependencies": {
-        "airtap": "^2.0.2",
+        "airtap": "^4.0.3",
         "codecov": "^3.1.0",
         "conventional-changelog-cli": "^2.0.5",
         "eslint": "^4.7.1",
