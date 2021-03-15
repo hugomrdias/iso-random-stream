@@ -42,7 +42,7 @@
         "airtap": "^2.0.2",
         "codecov": "^3.1.0",
         "conventional-changelog-cli": "^2.0.5",
-        "eslint": "^4.7.1",
+        "eslint": "^7.22.0",
         "eslint-config-halo": "^2.3.3",
         "faucet": "^0.0.1",
         "http-serve": "^1.0.1",
