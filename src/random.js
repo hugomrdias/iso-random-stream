@@ -1,5 +1,5 @@
-'use strict';
+'use strict'
 
-const { randomBytes } = require('crypto');
+const { randomBytes } = require('crypto')
 
-module.exports = randomBytes;
+module.exports = randomBytes
