@@ -11,9 +11,9 @@ $ npm install iso-random-stream
 ## Usage
 
 ```js
-const randomStream = require('iso-random-stream');
+const randomStream = require('iso-random-stream')
 
-randomStream('100').pipe(process.stdout);
+randomStream('100').pipe(process.stdout)
 ```
 
 ## API
