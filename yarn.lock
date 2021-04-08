@@ -2671,9 +2671,9 @@ playwright-core@1.10.0:
     ws "^7.3.1"
 
 playwright-test@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/playwright-test/-/playwright-test-3.0.0.tgz#bf91ca688c15571f402123ade2877f9b6d7bb1e5"
-  integrity sha512-3F7AHhweMK7Ztf2sBY1D1qKRv6U7HfTps0UquGze+BKe4NXc8wWy7fV7261Mwqp+xoAA3mUHa8CPivWptGvEaw==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/playwright-test/-/playwright-test-3.0.1.tgz#6133d4ef832c9d221dbf209f3dcbae3a922d596c"
+  integrity sha512-Vt1iaFbglYSVjkIPrvlQDciSrAzRC2vDNRKisN5wI8n1dn8tMe/Ph0r25s2jUXge+JwX9k1jH9ofD8ivOBJFMw==
   dependencies:
     "@hd-forks/v8-to-istanbul" "7.1.1"
     camelcase "^6.2.0"
