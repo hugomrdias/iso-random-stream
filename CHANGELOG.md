@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/hugomrdias/iso-random-stream/compare/v2.0.1...v2.0.2) (2021-12-03)
+
+
+### Bug Fixes
+
+* typesVersions for root require ([#91](https://www.github.com/hugomrdias/iso-random-stream/issues/91)) ([010146e](https://www.github.com/hugomrdias/iso-random-stream/commit/010146e7c0960889e328b18477b529427201e761))
+
 ### [2.0.1](https://www.github.com/hugomrdias/iso-random-stream/compare/v2.0.0...v2.0.1) (2021-12-02)
 
 
